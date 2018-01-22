@@ -7,7 +7,7 @@
     <ProjectGuid>{128E1983-6DFB-4C91-88BA-CEF437CE3950}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PartyControl</RootNamespace>
+    <RootNamespace>MediaControl</RootNamespace>
     <AssemblyName>PartyControl</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

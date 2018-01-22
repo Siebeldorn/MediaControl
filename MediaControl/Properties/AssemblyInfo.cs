@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PartyControl")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Media Control")]
+[assembly: AssemblyDescription("Convenient tool for changing volume and media relavant settings using a (wireless) gamepad.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("PartyControl")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("MediaControl")]
+[assembly: AssemblyCopyright("Copyright © 2017 Roland Wilhelm Janhsen")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

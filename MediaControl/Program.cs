@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace PartyControl
+namespace MediaControl
 {
     static class Program
     {

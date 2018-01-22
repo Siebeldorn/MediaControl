@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
 
-namespace PartyControl
+namespace MediaControl
 {
     static class Native
     {

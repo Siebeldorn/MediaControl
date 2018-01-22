@@ -1,4 +1,4 @@
-﻿namespace PartyControl
+﻿namespace MediaControl
 {
     partial class MainForm
     {
